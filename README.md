@@ -1,10 +1,10 @@
 # MAP-Foundation-Project-Advanced-Excel-Features
-		Lida Africa Executive Courses - Advanced Excel - Exercise 5							
+		Lida Africa Executive Courses - Advanced Excel Project							
 Preamble				
 "Matsiko & Peace Foundation (MAP Foundation) is a social enterprise that works to provide communities with livelihood programs and services.  5 years ago, MAP foundation secured funding (5 Million Pounds) from DFID to implement a 5 year project that aimed at reaching youth (15-35years) who dropped out of school with entrepreneurship and leadership skills in 49 major trading centers in 7 districts of Karamoja Region. MAP foundation therefore implemented activities such as 1) Entrepreneurship Skills Training 2) Life skills / Leadership skills Training 3). Product Making / Service provision skills training OR Apprenticeship Experience 4) Mentoring & Coaching, and 5) Linkages to opportunities. Key outcomes in this program are 1) Improved youth income, 2). Increased Youth Business & Job Creation 3) Increased Youth Community Participation & Leadership and 4). Increased Youth Employability Skills
 The Data in the tab "" Karamoja Data"" represents data acquired from youth at the end of the 5 years in the 7 districts. Study the data, its dictionary and answer the following questions
 "									
-1	Use the VLOOKUP function to merge Youth Skills data with "Karamoja data" - specifically COLUMNS B,H,I and J								
+1- Use the VLOOKUP function to merge Youth Skills data with "Karamoja data" - specifically COLUMNS B,H,I and J								
 2	Using your mathematical knowledge, complete COLUMN K (total skills core) and COLUMN P (total youth income)								
 3	Using the HLOOKUP, complete/merge the marital status of youth i.e COLUMN E. Pick this from Sheet 4.								
 4	Using data manipulation functions, complete COLUMN G in the format of Gender/Marital Status/District								
